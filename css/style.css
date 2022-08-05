@@ -66,7 +66,7 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }*/
-.container {
+/*.container {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
@@ -79,7 +79,7 @@ img {
 }
 
 /*******************************Навігація header****************************/
-.site-header {
+/*.site-header {
   border-bottom: 1px solid #ececec;
 }
 
@@ -183,7 +183,7 @@ img {
 }
 
 /********************************************Hero**********************************/
-.hero {
+/*.hero {
   background-color: var(--color-footer-header);
   text-align: center;
   padding: 200px 0;
@@ -233,7 +233,7 @@ img {
   background-color: var(--background-color-btn);
 }
 /*******************************************Features***********************************/
-.features__list {
+/*.features__list {
   display: flex;
   gap: 30px;
 }
@@ -265,7 +265,7 @@ img {
 }
 
 /*************************************************Section work********************************/
-.work {
+/*.work {
   padding-top: 0;
 }
 .work__title {
@@ -305,7 +305,7 @@ img {
   color: var(--primery-bgc-color);
 }
 /*****************************************************Team**********************************/
-.team {
+/*.team {
   background-color: var(--primery-background-color-section);
 }
 
@@ -375,7 +375,7 @@ img {
 }
 
 /*******************************COMPANY-Clients**************************************************/
-.clients__title {
+/*.clients__title {
   margin-bottom: 50px;
   color: var(--title-text-color);
   font-weight: 700;
@@ -410,9 +410,9 @@ img {
   border-color: var(--accent-color);
   color: var(--accent-color);
 }
-
+*/
 /**********************************************footer*************************************/
-
+/*
 .footer {
   background-color: var(--color-footer-header);
   padding: 60px 0;
@@ -557,7 +557,7 @@ address .link:focus {
 }
 
 /******************************Modal window*********************************************************/
-.backdrop {
+/*.backdrop {
   position: fixed;
   top: 0;
   left: 0;
@@ -768,7 +768,7 @@ textarea:focus {
 }
 
 /*********************************************Portfolio********************************************/
-.btn {
+/*.btn {
   display: block;
   padding: 6px 22px;
   border-radius: 4px;
@@ -800,7 +800,7 @@ textarea:focus {
 }
 
 /*Section-Portfolio*/
-.portfolio-list {
+/*.portfolio-list {
   display: flex;
   flex-wrap: wrap;
 
