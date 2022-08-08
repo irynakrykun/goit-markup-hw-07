@@ -190,9 +190,10 @@ textarea {
   line-height: 1.71;
   text-underline-position: under;
 }
-
 .modal-form-btn {
-  @extend .btn;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
   display: inline-flex;
   padding: 10px 55px;
   width: 200px;
